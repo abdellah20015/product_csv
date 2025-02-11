@@ -1,0 +1,101 @@
+id,name,quantity,price,category,client,region,created_date
+2298b097-a88c-4ad4-a5cd-687a87d2e2e7,Saint Eco,32,3887.47,Alimentation,Charpentier,Marrakech,2023-01-23T00:00:00Z
+377e583d-0c6c-44f6-b1b6-5dbd4abbf58e,Classe Classique,63,677.08,Cosmétique,Valentin S.A.R.L.,Meknès,2024-08-17T00:00:00Z
+b8492629-1763-4b7e-8fa3-a16faf4cfae4,Temps Premium,46,3835.36,Électronique,Perrier Joly et Fils,Marrakech,2024-02-29T00:00:00Z
+b0cb375e-0fec-46d9-a8ba-bb5a7856c3be,Que Classique,33,3217.09,Alimentation,Lebon,Agadir,2023-06-22T00:00:00Z
+cd6281e3-4091-497b-a0b6-f32364ae70cd,Fixer Classique,89,2670.36,Vêtements,Becker,Oujda,2023-02-08T00:00:00Z
+dff236da-f6ec-45c9-b80e-75e30f79d0b2,Haïr Deluxe,43,1595.68,Automobile,De Sousa,Agadir,2024-05-31T00:00:00Z
+d6e20161-09d1-45b1-83c3-364144e3ef90,Mort Premium,52,1801.22,Cosmétique,Guichard,Casablanca,2024-11-08T00:00:00Z
+398fb010-0d8f-4d68-a309-f72bcb37ab0e,Crise Premium,15,3437.88,Vêtements,Toussaint S.A.S.,Meknès,2024-06-09T00:00:00Z
+7a33435d-13b8-47d7-9ad1-bfcb20000e96,François Deluxe,80,3557.52,Électroménager,Dupuis,Fès,2024-04-22T00:00:00Z
+13e2a662-f743-4fa7-84d7-22c8076d48e2,Étranger Deluxe,78,1346.55,Vêtements,Jacquot S.A.S.,Marrakech,2024-08-17T00:00:00Z
+6268de85-4ad6-442a-9963-d5c122af7d96,Usage Eco,27,3018.28,Alimentation,Gomez et Fils,Tanger,2023-02-15T00:00:00Z
+7838864a-d795-40b7-a238-102e0b44d167,Contenter Eco,47,2005.49,Vêtements,Meunier et Fils,Tanger,2023-03-17T00:00:00Z
+236fd06e-9a92-4f08-b5fa-e6b2ed257377,Savoir Classique,99,1882.89,Automobile,Marion S.A.R.L.,Tanger,2025-01-10T00:00:00Z
+86e72adc-9a00-4bce-93bb-2e971ea549e7,Siège Premium,38,2229.69,Cosmétique,Pereira,Oujda,2024-02-21T00:00:00Z
+c557c4b9-1699-47e6-a9c9-6526a33e4f2d,Divers Premium,25,4654.76,Automobile,Jacquet Monnier et Fils,Meknès,2023-11-08T00:00:00Z
+9beffc45-f4a1-4f2e-a4ed-1764cde30ec5,Croiser Premium,39,3472.59,Cosmétique,Sauvage Auger SA,Meknès,2024-03-17T00:00:00Z
+394a2af1-a1f1-4487-9b84-fb5c15762b7a,De Classique,17,950.45,Vêtements,De Oliveira,Agadir,2024-04-11T00:00:00Z
+764caa55-dbcd-4a59-b0f2-09f5556c1e4a,Sous Classique,46,3500.3,Automobile,Rodriguez,Casablanca,2025-01-28T00:00:00Z
+0beb9a01-ddee-4a86-b263-ebaa894e0250,Partager Classique,33,4997.08,Automobile,Dupré et Fils,Agadir,2023-04-23T00:00:00Z
+ff3e25ff-b76c-480f-959e-38d7ef915c73,Mort Premium,9,1296.35,Alimentation,Masse,Tanger,2024-09-10T00:00:00Z
+6ebb9d82-0966-4130-8512-a5e8b604387b,Intérêt Classique,71,2648.6,Cosmétique,Reynaud SARL,Fès,2023-04-02T00:00:00Z
+fd616c83-90f9-48c0-954c-92bf68305b5c,Fixer Eco,16,1972.93,Alimentation,Clerc,Marrakech,2024-07-24T00:00:00Z
+3a7aba5c-ddee-4a58-a72e-3c905a4c057b,Odeur Premium,41,1088.69,Automobile,Roche,Casablanca,2024-09-14T00:00:00Z
+4b200b11-8066-4105-a902-e4b18860daad,Mais Premium,100,138.77,Électroménager,Lefort,Oujda,2023-08-03T00:00:00Z
+53459786-be75-4306-aad3-7f1c9110c197,Aile Deluxe,83,702.78,Cosmétique,Bertin,Agadir,2024-12-26T00:00:00Z
+855ac2ce-33c5-42d5-8be2-8514113c215c,Bouche Deluxe,20,4553.31,Alimentation,Fabre Perret S.A.R.L.,Oujda,2023-08-18T00:00:00Z
+597e8e83-01c7-491e-a79a-38ca0aaf5263,Affirmer Premium,71,2208.56,Vêtements,Perret,Meknès,2024-02-18T00:00:00Z
+d526c840-ec92-4e09-afb2-e15aadc25b45,Drame Classique,1,4647.37,Alimentation,Aubert S.A.R.L.,Agadir,2023-02-15T00:00:00Z
+a8464c17-3953-43cd-94c5-922f4549c32c,Français Premium,71,3621.31,Automobile,Boulanger Bodin et Fils,Fès,2023-10-17T00:00:00Z
+850abf3e-c3a0-4f7c-95f8-ffc90e946d57,Apercevoir Deluxe,55,4610.34,Alimentation,Petit et Fils,Marrakech,2023-05-07T00:00:00Z
+4855da79-0063-43f9-93f7-16c3a344caab,Lentement Classique,47,206.59,Vêtements,Gaudin,Casablanca,2024-11-11T00:00:00Z
+02c13808-9cfa-4ef6-9226-323f67b2222c,Douter Classique,90,2737.55,Vêtements,Meyer,Oujda,2023-03-26T00:00:00Z
+134b15a2-c0fc-4737-85c9-5a3967eab59f,Partout Deluxe,20,1816.06,Vêtements,Mathieu,Casablanca,2024-01-09T00:00:00Z
+a221758e-f0c0-4502-a449-64ceaf69053a,Demi Classique,70,2864.25,Cosmétique,Wagner,Marrakech,2023-08-20T00:00:00Z
+c43cf010-a522-47d8-9068-5b23dc827f7e,Est Eco,64,3360.14,Automobile,Joly,Agadir,2024-10-30T00:00:00Z
+45beb1db-39d7-4c96-98a6-f5c65bdff8cf,Cher Premium,49,4420.01,Électroménager,Pages,Fès,2023-03-05T00:00:00Z
+a46a10c1-47fb-4ad5-98ef-11b4531dac74,Verser Deluxe,39,508.15,Automobile,Bruneau,Meknès,2023-03-19T00:00:00Z
+92639a21-9725-4fec-8019-22ef38dcddbe,Examiner Premium,79,3334.41,Électronique,Michaud SA,Rabat,2023-07-24T00:00:00Z
+e468b659-ffeb-4abc-985e-d08e6dea1d7d,Ami Eco,29,4099.09,Vêtements,Traore,Oujda,2023-04-06T00:00:00Z
+307a681c-361f-4401-85d3-bd7c42fb7049,Joie Eco,5,2359.5,Automobile,Thibault Brunet SA,Meknès,2024-07-03T00:00:00Z
+1493ad9e-b7dc-42a6-a898-c38c304dc488,Pluie Deluxe,74,3780.51,Alimentation,Blanchet et Fils,Rabat,2024-06-28T00:00:00Z
+35d7bd51-f7d9-4c23-8736-8802e74d51f8,Victime Deluxe,31,2118.28,Automobile,Simon Bailly SA,Fès,2024-12-18T00:00:00Z
+dab96171-b371-4ff2-8afd-96349ff79801,Air Deluxe,11,4360.62,Cosmétique,Dos Santos Gilles SARL,Rabat,2024-12-09T00:00:00Z
+df097cae-36aa-49cc-83e4-d065a011b8e6,Effort Classique,84,1157.77,Automobile,Gilbert SARL,Rabat,2024-08-09T00:00:00Z
+9256ba31-7819-4a03-b4ab-e949b3d26ea2,Dame Premium,91,677.29,Vêtements,Launay,Casablanca,2023-11-17T00:00:00Z
+19a4931c-6f0b-46a1-970d-e0cfb1d1dc30,Meilleur Eco,20,3497.69,Automobile,Guillou et Fils,Agadir,2024-02-21T00:00:00Z
+6c1ed6ec-b41b-4d79-98eb-23f7e07f54f0,Réfléchir Eco,93,809.14,Alimentation,Rémy,Casablanca,2023-10-17T00:00:00Z
+891ee077-e93a-4434-b6ec-e8e3c19726bd,Liberté Premium,39,937.67,Vêtements,Maillet,Rabat,2023-01-15T00:00:00Z
+84fc997e-314c-4455-a091-fa7cb091382a,Chien Classique,79,3973.98,Électroménager,Wagner,Oujda,2024-04-24T00:00:00Z
+18cd30ae-40fc-4c6b-9854-c5c6a23ef75c,Masse Classique,29,2602.75,Électronique,Dufour S.A.S.,Rabat,2023-03-05T00:00:00Z
+7b9fae04-10e2-4e7b-9950-4f0743b3435d,Prison Eco,87,2332.27,Alimentation,Petitjean Meyer et Fils,Rabat,2023-06-15T00:00:00Z
+6ec9426e-d0b1-4e60-bc46-f6c304ed1c72,Nation Classique,78,1215.34,Automobile,Georges S.A.,Tanger,2024-02-05T00:00:00Z
+0ccd690b-1e44-4138-8567-1a1c1fb50911,Discuter Classique,77,4792.96,Automobile,Pierre,Meknès,2024-02-16T00:00:00Z
+46aab692-56f6-4212-afe1-91a7564ab4d1,Rentrer Premium,93,2463.8,Automobile,Pascal SA,Marrakech,2023-01-01T00:00:00Z
+810b8a8d-766a-4114-9dd2-67d021237312,Bien Eco,38,3966.54,Électronique,Chevallier,Rabat,2023-11-26T00:00:00Z
+01a0f166-ebeb-473f-ac16-f7a3975ecf65,Près Premium,36,3288.78,Cosmétique,Ledoux Morin SA,Meknès,2024-12-05T00:00:00Z
+b8300634-1896-47a3-a198-55cfff21a569,Terminer Classique,45,2521.83,Électronique,Léger,Meknès,2024-08-30T00:00:00Z
+e7f45946-d1cc-4efb-8c32-e31a5b6d0cbf,Serrer Deluxe,43,2473.06,Électronique,Goncalves Gomes et Fils,Meknès,2023-06-30T00:00:00Z
+0f7cda88-86de-4705-be2e-ef318c660de7,Classe Deluxe,53,2234.37,Électronique,Collin,Rabat,2024-02-27T00:00:00Z
+35b09f39-6a14-4606-98d3-02b55f23be85,Grâce Eco,96,4426.5,Vêtements,Gomes Lévêque S.A.S.,Casablanca,2024-08-15T00:00:00Z
+37e8e005-1271-4f92-a610-f8df06706685,Chaîne Classique,76,1849.94,Alimentation,Maillet,Marrakech,2024-02-25T00:00:00Z
+cd52f0ea-082e-4b17-b9b7-894323feb913,Port Premium,20,2615.77,Alimentation,Pineau SA,Oujda,2024-06-27T00:00:00Z
+25c19ce7-91e6-40fc-a3bb-f809fd29210a,Répéter Classique,5,278.49,Alimentation,Gonzalez,Casablanca,2024-02-03T00:00:00Z
+e71e1d99-caeb-4470-878b-11b008576cbc,Content Classique,77,1087.64,Vêtements,Vincent Ferrand S.A.R.L.,Casablanca,2023-02-26T00:00:00Z
+d0fe7458-c602-4a67-a871-7549152efd46,Plan Premium,92,558.76,Électronique,Allard,Fès,2023-08-18T00:00:00Z
+d9426d16-aaf1-4dc3-8385-cf45df2c6aa4,Dégager Premium,95,4304.29,Électroménager,Richard S.A.,Meknès,2024-04-04T00:00:00Z
+d5700dab-b75e-4ccb-a239-d89a0e68c64f,Ça Classique,45,78.62,Électronique,Guyot Diallo SA,Marrakech,2024-01-21T00:00:00Z
+20437c9c-e5f4-4697-b8cf-e944ac6b65ea,Tout Premium,17,2509.14,Électronique,Lemaire,Fès,2023-04-09T00:00:00Z
+3ca1e69f-90cf-46a1-846a-1fe50110933f,Étouffer Premium,50,3420.13,Alimentation,Louis,Fès,2023-10-06T00:00:00Z
+1cc4c6f1-8b95-4485-a721-bf37b904938b,Rue Eco,27,2854.09,Cosmétique,Pruvost,Marrakech,2024-09-30T00:00:00Z
+e87af5e8-222b-4e6d-afe9-36d0cec00279,Apparaître Premium,92,3597.64,Électroménager,Raymond SARL,Meknès,2024-09-06T00:00:00Z
+31707bd8-fa59-4878-8442-80d6f39dc794,Saluer Premium,92,4587.53,Automobile,Barre François et Fils,Oujda,2023-11-13T00:00:00Z
+31c5d75e-cc9b-43f2-96cc-3183587b27c4,Guère Classique,27,549.06,Automobile,Berthelot Monnier et Fils,Oujda,2023-11-08T00:00:00Z
+29d16339-5c85-470d-9534-133ac11af888,Théâtre Premium,83,2386.86,Électronique,Bertrand SARL,Casablanca,2023-09-25T00:00:00Z
+639dc145-48ce-4078-8784-b8af79b40e0d,Souvent Classique,70,1514.48,Automobile,Ferreira,Oujda,2024-11-07T00:00:00Z
+23589445-30d3-4932-a193-26a00320144d,Accrocher Premium,21,1432.5,Électronique,Muller Blot et Fils,Tanger,2024-03-02T00:00:00Z
+8d80abd5-c5dd-468f-a827-4223d6179b20,Aussitôt Eco,44,303.31,Automobile,Couturier,Rabat,2024-11-19T00:00:00Z
+1865a0f4-daad-4fb4-acef-da0f04c30c31,Parce que Deluxe,69,2028.65,Automobile,Gosselin,Meknès,2024-06-09T00:00:00Z
+e6f67b23-ea1e-417c-a583-d971274c94c1,Soin Premium,56,1570.96,Automobile,Traore,Rabat,2023-11-01T00:00:00Z
+56883a4c-3ffe-4c5f-8dcf-8001cc42e7ad,Étudier Eco,75,3737.04,Électroménager,Roux Evrard SARL,Agadir,2024-03-12T00:00:00Z
+802e15df-6f4f-4950-8205-0cafc89d2b9f,Compter Premium,15,1184.48,Alimentation,Bertrand François S.A.R.L.,Tanger,2023-08-28T00:00:00Z
+330cba60-1c72-4150-bda2-5de143181aa1,Quelque Classique,61,153.81,Automobile,Lopes S.A.,Tanger,2023-05-25T00:00:00Z
+7596a2ca-3c13-4fe2-970f-ea8058a94afb,Banc Premium,55,1408.38,Cosmétique,Olivier,Meknès,2023-02-21T00:00:00Z
+7f11f4c1-c189-46fa-8ff0-40315164523d,Vite Deluxe,18,3862.6,Cosmétique,Gilbert,Casablanca,2023-05-05T00:00:00Z
+32aa493b-08cf-4e7e-a6ff-db91cc289d4a,Fois Premium,79,272.3,Alimentation,Texier S.A.S.,Rabat,2023-03-03T00:00:00Z
+3778da93-7bbf-4236-8ac1-61db6c324243,Ordre Deluxe,42,4717.93,Automobile,Guillot Leduc S.A.,Tanger,2024-01-20T00:00:00Z
+3ffd72b4-eae6-4001-970e-19e8b329a780,Personnage Premium,4,3252.33,Électronique,Breton Hubert S.A.R.L.,Agadir,2024-04-22T00:00:00Z
+89039358-f826-4d1d-83e9-3dd33bed9140,Jeu Classique,74,986.42,Automobile,Jacob S.A.S.,Meknès,2024-03-24T00:00:00Z
+420003ba-39a4-4022-9457-6297c2348ae7,Ton Classique,63,4453.9,Cosmétique,Gomes,Marrakech,2023-10-31T00:00:00Z
+64bce256-fdab-41f8-b1dc-fea09a0fff98,Mener Eco,38,2971.45,Alimentation,Bègue Muller SA,Fès,2023-04-10T00:00:00Z
+e1f6496d-23bf-47bc-ba82-a970a3dc25d0,Saisir Premium,48,2905.0,Vêtements,Mathieu,Meknès,2023-11-20T00:00:00Z
+00445124-c92b-450c-b479-4bef885c1782,Payer Deluxe,82,2110.13,Vêtements,Navarro,Oujda,2024-10-14T00:00:00Z
+a480c8b5-24ad-4c17-b588-7b1e68c53ce2,Conclure Eco,75,3989.46,Vêtements,Maurice,Tanger,2024-10-07T00:00:00Z
+317d94cb-9b66-4ecd-8c05-5230a7c13346,Heure Classique,6,272.37,Automobile,Descamps,Rabat,2024-05-06T00:00:00Z
+07d9d0f3-571a-4d6d-86da-3b196dba4fa1,Oeuvre Classique,43,949.92,Cosmétique,Boulay,Marrakech,2024-03-21T00:00:00Z
+f55557ee-a87a-416e-995f-94013484cb14,Autrement Classique,52,3567.35,Électroménager,Ruiz SARL,Casablanca,2023-01-02T00:00:00Z
+f0614d24-8e27-40f8-ab68-739278932d0c,Dehors Premium,80,4953.9,Vêtements,Hoareau S.A.,Marrakech,2023-02-08T00:00:00Z
+4a1a04e4-47a0-46a2-b000-c641cef22c26,Chaud Classique,26,1234.18,Vêtements,Garcia SARL,Fès,2024-07-15T00:00:00Z
+e2090391-5b61-42a0-92c6-4d7d4a92d3d6,Feu Eco,8,210.75,Électronique,Samson,Agadir,2024-12-31T00:00:00Z
+86b5da68-27a6-4efa-a7b0-cbe0557c5073,Joie Premium,18,3644.17,Cosmétique,Faure Morel SA,Casablanca,2023-12-24T00:00:00Z
