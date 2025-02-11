@@ -1,0 +1,300 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "CSV Application API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/private/file/upload": {
+      "post": {
+        "operationId": "uploadFile",
+        "summary": "Upload File",
+        "tags": ["Files"],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {"type": "string", "format": "binary"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {"description": "File uploaded successfully"}
+        }
+      }
+    },
+    "/private/file/list": {
+      "post": {
+        "operationId": "listFiles",
+        "summary": "List Files",
+        "tags": ["Files"],
+        "responses": {
+          "200": {"description": "List of files"}
+        }
+      }
+    },
+    "/private/product/list": {
+      "post": {
+        "operationId": "listProducts",
+        "summary": "List Products",
+        "tags": ["Products"],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "query": {
+                    "type": "object",
+                    "description": "MongoDB query object"
+                  },
+                  "options": {
+                    "type": "object",
+                    "properties": {
+                      "page": {
+                        "type": "integer",
+                        "minimum": 1,
+                        "default": 1,
+                        "description": "Page number"
+                      },
+                      "limit": {
+                        "type": "integer",
+                        "minimum": 1,
+                        "default": 10,
+                        "description": "Number of items per page"
+                      },
+                      "sort": {
+                        "type": "object",
+                        "description": "Sorting criteria (e.g., {\"name\": 1} for ascending)"
+                      },
+                      "reverse": {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Reverse the sort order"
+                      },
+                      "filters": {
+                        "type": "object",
+                        "description": "Filter criteria (e.g., {\"category\": \"electronics\"})"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "List of products with pagination",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string",
+                      "enum": ["success", "error"]
+                    },
+                    "pagination": {
+                      "type": "object",
+                      "properties": {
+                        "total": {
+                          "type": "integer",
+                          "description": "Total number of items"
+                        },
+                        "page": {
+                          "type": "integer",
+                          "description": "Current page"
+                        },
+                        "limit": {
+                          "type": "integer",
+                          "description": "Items per page"
+                        },
+                        "totalPages": {
+                          "type": "integer",
+                          "description": "Total number of pages"
+                        }
+                      }
+                    },
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/private/product/insert": {
+      "post": {
+        "operationId": "insertProduct",
+        "summary": "Insert Product",
+        "tags": ["Products"],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "name": {"type": "string"},
+                  "quantity": {"type": "number"},
+                  "price": {"type": "number"},
+                  "category": {"type": "string"},
+                  "client": {"type": "string"},
+                  "region": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {"description": "Product inserted successfully"}
+        }
+      }
+    },
+    "/private/product/remove": {
+      "post": {
+        "operationId": "removeProduct",
+        "summary": "Remove Product",
+        "tags": ["Products"],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "productId": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {"description": "Product removed successfully"}
+        }
+      }
+    },
+    "/private/product/removeAll": {
+      "post": {
+        "operationId": "removeAllProducts",
+        "summary": "Remove All Products",
+        "tags": ["Products"],
+        "responses": {
+          "200": {"description": "All products removed successfully"}
+        }
+      }
+    },
+    "/private/product/statistics": {
+      "post": {
+        "operationId": "getProductStatistics",
+        "summary": "Get Detailed Product Statistics",
+        "tags": ["Products"],
+        "responses": {
+          "200": {
+            "description": "Detailed product statistics",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    },
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "totalProducts": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "total": {
+                                "type": "integer",
+                                "description": "Total number of products"
+                              }
+                            }
+                          }
+                        },
+                        "regionStats": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "_id": {
+                                "type": "string",
+                                "description": "Region name"
+                              },
+                              "count": {
+                                "type": "integer",
+                                "description": "Number of products in the region"
+                              },
+                              "totalQuantity": {
+                                "type": "integer",
+                                "description": "Total quantity of products in the region"
+                              },
+                              "totalValue": {
+                                "type": "number",
+                                "description": "Total value of products in the region"
+                              }
+                            }
+                          }
+                        },
+                        "timeStats": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "_id": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "integer"
+                                  },
+                                  "month": {
+                                    "type": "integer"
+                                  }
+                                }
+                              },
+                              "count": {
+                                "type": "integer"
+                              },
+                              "totalQuantity": {
+                                "type": "integer"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "scheme": "bearer"
+      }
+    }
+  },
+  "security": [
+    {
+      "bearerAuth": []
+    }
+  ]
+}

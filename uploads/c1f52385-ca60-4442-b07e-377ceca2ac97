@@ -1,0 +1,51 @@
+﻿id,name,quantity,price,category,client,region
+dedd6806-5ee5-4517-9fb0-2413241f6cd6,Voyage Premium,84,4138.15,Vêtements,Pages Cordier S.A.,Agadir
+c0cd013b-0f3f-46ae-aa20-92ef9a73ec91,Oser Deluxe,11,4431.52,Alimentation,Briand S.A.,Oujda
+ef67f00c-4d76-4de0-a20d-1eb8919c15eb,Passage Eco,31,222.63,Électroménager,Charrier,Casablanca
+90f082f7-884e-4f26-bedd-7b07bf0b7c7e,Jeu Deluxe,45,4900.99,Alimentation,Menard SARL,Casablanca
+48901ad8-97ba-4da8-86d8-74b830bb8ebd,Plaisir Premium,52,1196.17,Vêtements,Perrot,Rabat
+a87bbe77-4dee-4588-9c2c-ac7a248f9818,Avec Premium,1,1181.52,Alimentation,Boulay Rodriguez et Fils,Casablanca
+d1f4242b-370e-4d70-80e1-a24636fe24fa,Chair Premium,81,3578.57,Vêtements,Guillaume,Casablanca
+6378277d-5fe8-47e1-b492-591213fbab1a,Oublier Deluxe,39,2604.03,Cosmétique,Bazin,Casablanca
+4b691aa1-44c9-419c-824d-314d1649ec0e,Charge Eco,87,4840.64,Électronique,Schneider,Meknès
+46235d57-b88c-4523-bc4f-4b9ad2e18378,Tu Premium,37,3247.79,Cosmétique,Meyer S.A.,Marrakech
+b9b4442d-2ba4-4d1b-9863-b6ffacafcf1b,Vin Classique,81,1941.98,Électroménager,Torres,Fès
+e053d4bc-a6f2-4ddd-a566-b3903ded99c1,Trace Eco,2,1034.8,Cosmétique,Le Roux,Casablanca
+bf5e9bdc-0516-4ae0-a641-9d9df2c2c31c,Important Deluxe,18,980.68,Cosmétique,Grondin,Oujda
+d4d75ab0-2df2-4104-8f1c-1c772bd94a9b,Réveiller Classique,57,2980.03,Cosmétique,Lemonnier S.A.R.L.,Tanger
+4077b690-4741-495d-be7e-337b1e01869b,Ouvrage Classique,79,735.45,Alimentation,Pelletier,Meknès
+c25bf17a-59cf-40a7-a84f-d581bacc7131,Sein Eco,43,2119.65,Électroménager,Nicolas S.A.S.,Marrakech
+7f71a69c-ba28-4cb6-9a0d-48c41967ac51,Ouvrir Deluxe,44,325.01,Électroménager,Delaunay Grondin S.A.S.,Marrakech
+95833ac8-c66d-4e2b-8993-228bc1dcbd65,Cheval Eco,13,652.79,Automobile,Labbé SARL,Casablanca
+ecd8bf0f-f270-492e-bffb-8ea1ec2a09c1,Contenir Classique,54,1269.57,Alimentation,Lecoq,Agadir
+086cf9fc-fa14-4e0b-a8ef-7d3e6881960d,Troubler Classique,48,4023.4,Vêtements,Duval,Meknès
+99d9601b-1a0f-4a3c-a5bd-6f8f53af6c51,Discuter Premium,47,4184.91,Électronique,Rémy Guichard SARL,Oujda
+a5b81742-dee2-46c0-ab2b-bc226fd024a1,Combien Deluxe,27,3880.09,Vêtements,Duval Moulin SA,Oujda
+576ec409-9299-47b6-ba6d-4820112c38c3,Seul Eco,70,3148.18,Alimentation,Laine,Tanger
+a98a9b16-da0a-41d4-a483-455dc35a3ed4,Presser Eco,69,439.44,Électronique,Becker Le Gall SARL,Marrakech
+c5091b94-8013-4d4f-8966-71c1a95c38e6,Page Classique,3,3107.47,Automobile,Laroche,Rabat
+ef2a431f-2e35-47c1-86b7-e5a1f9b88930,Présenter Premium,16,384.05,Automobile,Fischer,Rabat
+ba6c01e3-86da-4100-9c7c-9b688ce11c7a,Campagne Premium,45,2190.94,Vêtements,Bouvier Mace SA,Tanger
+fd432df7-461f-465d-bb2d-1ebba77fd6d7,Déposer Eco,62,1450.57,Alimentation,Imbert Renault S.A.,Oujda
+eaae186e-4de7-4093-bf0c-4fcde52e5f8b,Représenter Eco,49,2822.07,Automobile,Vaillant,Meknès
+8bed50a7-0255-420e-9b80-ab579c1b2750,Environ Classique,92,1457.82,Vêtements,Carlier Henry SA,Oujda
+c474b9a6-7538-4d13-9f50-86e01c323375,Un Classique,55,707.61,Électronique,Morvan,Casablanca
+d1bec7e2-afa5-4737-88d0-26bd95ced30b,Apparaître Classique,59,1946.62,Électronique,Ferreira Gay et Fils,Marrakech
+3cfaec8d-3df4-4e8c-b305-3d4f57d9aeda,Prêter Eco,98,4320.82,Électroménager,Roux Morvan et Fils,Casablanca
+bfbd6350-2b37-4230-82a8-1e2b900e572c,Différent Classique,72,3463.56,Vêtements,Michaud Bertin et Fils,Agadir
+52ce490e-b9a9-4dca-88d2-7839831b0a23,Tourner Classique,91,2806.18,Automobile,Godard S.A.R.L.,Meknès
+1ebc6835-5065-4135-8c5d-eb2006ca8cd2,Étage Classique,49,3475.53,Automobile,Baudry,Fès
+5b4a21e8-2fd9-40b3-98ea-a462092ee596,Fou Premium,18,2224.54,Cosmétique,Guyon S.A.S.,Meknès
+16aaa878-ef99-4096-9243-e7d07bf7895f,Savoir Deluxe,6,4359.61,Alimentation,Bernard,Rabat
+6072a04e-c593-49a4-8f87-a684077a8ade,Religion Deluxe,7,4549.01,Automobile,David S.A.R.L.,Marrakech
+c0832942-1749-41fa-bee9-25a4d119b54e,Montagne Eco,62,205.15,Alimentation,Laurent Girard S.A.,Oujda
+bf3337af-f190-4f5b-922f-f4aba5457a4c,Traiter Deluxe,74,4301.72,Automobile,Gomes Lemonnier et Fils,Meknès
+48f328af-3790-4a66-ad1d-5a3a72509a7d,Phrase Premium,91,4375.4,Électronique,Lemaire Brunel SARL,Oujda
+6bebaadc-d6eb-4a3a-ad7d-e3069ed39b2f,Croiser Deluxe,79,4618.39,Alimentation,Boucher,Casablanca
+a5d2e680-0330-4a52-a963-4280fe699eae,Présence Classique,4,3821.21,Cosmétique,Royer,Tanger
+e3549b8a-624a-4213-8385-960e7d55f4a0,Existence Premium,21,2025.86,Cosmétique,Letellier,Agadir
+59a31c90-73a6-4d80-98dd-283224bbfba3,Profondément Deluxe,85,3259.84,Alimentation,Paul SA,Fès
+ae7e7467-7327-495f-87e3-bd64f22e42ff,Fois Eco,5,590.78,Alimentation,Duhamel,Agadir
+98dcbe24-c5f4-476b-9b67-aead899ad3fc,Fond Premium,41,1463.62,Électroménager,Colin,Fès
+58ddda1e-851d-4f23-91fb-c2885d6db97a,Retenir Deluxe,100,753.38,Vêtements,Marques,Marrakech
+24aa256f-d93e-42eb-8213-79b9a7f4c27b,Idée Classique,85,4083.11,Vêtements,Buisson Normand S.A.R.L.,Casablanca
